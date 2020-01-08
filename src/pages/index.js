@@ -44,7 +44,7 @@ const IndexPage = () => (
         <h3>Does it drain battery?</h3>
         <p>
           Not really. Because it needs to be running the background, Timesuck
-          will use around 5% of your battery per day. You should barely notice
+          will use around 1% of your battery per day. You should barely notice
           it.
         </p>
 
