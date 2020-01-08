@@ -10,11 +10,11 @@ const IndexPage = () => (
     <SEO title="Home" />
     <div class="faq-container">
       <div class="faq">
-        <h2>
+        <h3>
           Don't see your question here? You can always email us at{" "}
           <a href="mailto:alexa@brighten.in">alexa@brighten.in</a> with any
           questions! We love hearing from you :){" "}
-        </h2>
+        </h3>
 
         <h3> What is Timesuck? </h3>
         <p>
