@@ -11,9 +11,9 @@ const IndexPage = () => (
     <div class="faq-container">
       <div class="faq">
         <h3>
-          Don't see your question here? You can always email us at{" "}
-          <a href="mailto:alexa@brighten.in">alexa@brighten.in</a> with any
-          questions! We love hearing from you :){" "}
+          Don't see your question here? You can always{" "}
+          <a href="sms://+17242647086">text us</a> with any questions! We love
+          hearing from you :){" "}
         </h3>
 
         <h3> What is Timesuck? </h3>
