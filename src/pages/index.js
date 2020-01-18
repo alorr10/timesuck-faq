@@ -10,7 +10,7 @@ const IndexPage = () => (
     <SEO title="Home" />
     <div class="faq-container">
       <div class="faq">
-        <h3>
+        <h3 class="topHeader">
           Don't see your question here? You can always{" "}
           <a href="sms://+17242647086">text us</a> with any questions! We love
           hearing from you :){" "}
