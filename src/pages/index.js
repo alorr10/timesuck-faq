@@ -17,7 +17,6 @@ const IndexPage = () => (
         </h3>
 
         <h3> What is Timesuck? </h3>
-     
           Timesuck is an app that logs your screen time each day to help you
           become more aware of how much time you spend on your phone.
         </p>
