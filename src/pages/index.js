@@ -55,10 +55,11 @@ const IndexPage = () => (
 
         <h3>My screentime is not accurate!</h3>
         <p>
-          iOS does not allow access to their screen time api (we have no idea
-          why) so we have to use our own methods of tracking screen time, and
-          sometimes it messes up. We're working hard every day to make it more
-          accurate!
+          Sometimes Timesuck isn’t perfect at detecting your screen time,
+          especially in the first few days of using it. If you want Timesuck to
+          be super accurate (and save a ton of battery), the best thing to do
+          would be to set up a passcode or Face ID to unlock your device. You
+          can do that from your Settings app > Face ID & Passcode.{" "}
         </p>
 
         <p>
