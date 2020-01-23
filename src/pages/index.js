@@ -72,6 +72,14 @@ const IndexPage = () => (
           can do that from your Settings app > Face ID & Passcode.{" "}
         </p>
 
+        <h3>Why is my screentime way higher than it should be?</h3>
+        <p>
+          Timesuck tracks the time that your screen is literally on. This
+          includes when you receive push notifications. Try placing your phone
+          screen-down at night, and consider going through your settings page
+          and turning off notifications for apps you don't need them for.
+        </p>
+
         <p>
           You're always welcome to text or email us through the app if you need
           any help with anything at all!
