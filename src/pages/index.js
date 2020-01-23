@@ -41,6 +41,16 @@ const IndexPage = () => (
           don't ever see it.
         </p>
 
+        <h3>
+          Why do I keep getting popups saying Timesuck is tracking my location?
+        </h3>
+        <p>
+          Background location access is required to keep the app open in the
+          background to log screen time. We completely ignore the location data
+          itself. These popups are simply reminders that the app has been
+          running in the background, logging screen time.
+        </p>
+
         <h3>Does it drain battery?</h3>
         <p>
           Not really. Because it needs to be running the background, Timesuck
