@@ -16,33 +16,33 @@ const IndexPage = () => (
           hearing from you :){" "}
         </h3>
 
-        <h3> What is Timesuck? </h3>
+        <h3> What is Phoneless? </h3>
         <p>
-          Timesuck is an app that logs your screen time each day to help you
+          Phoneless is an app that logs your screen time each day to help you
           become more aware of how much time you spend on your phone.
         </p>
 
         <h3>
-          Does Timesuck have to be in the background to measure my screen time?
+          Does Phoneless have to be in the background to measure my screen time?
         </h3>
         <p>
-          Short answer: Yes. Timesuck must be running in the background to
+          Short answer: Yes. Phoneless must be running in the background to
           measure when you’re using your phone. It does not have to be open and
-          active. You can press the home button and leave Timesuck in the
+          active. You can press the home button and leave Phoneless in the
           background, but you cannot completely force quit the app (swiping up
           from the multitasking menu)
         </p>
 
         <h3> Why do I need to allow location access?</h3>
         <p>
-          Because of some iOS limitations, Timesuck needs access to location in
+          Because of some iOS limitations, Phoneless needs access to location in
           order to stay open in the background and log screen time. Your
           location is stored locally on your phone, and is 100% private; we
           don't ever see it.
         </p>
 
         <h3>
-          Why do I keep getting popups saying Timesuck is tracking my location?
+          Why do I keep getting popups saying Phoneless is tracking my location?
         </h3>
         <p>
           Background location access is required to keep the app open in the
@@ -53,7 +53,7 @@ const IndexPage = () => (
 
         <h3>Does it drain battery?</h3>
         <p>
-          Not really. Because it needs to be running the background, Timesuck
+          Not really. Because it needs to be running the background, Phoneless
           will use around 1% of your battery per day. You should barely notice
           it.
         </p>
@@ -65,8 +65,8 @@ const IndexPage = () => (
 
         <h3>My screentime is not accurate!</h3>
         <p>
-          Sometimes Timesuck isn’t perfect at detecting your screen time,
-          especially in the first few days of using it. If you want Timesuck to
+          Sometimes Phoneless isn’t perfect at detecting your screen time,
+          especially in the first few days of using it. If you want Phoneless to
           be super accurate (and save a ton of battery), the best thing to do
           would be to set up a passcode or Face ID to unlock your device. You
           can do that from your Settings app > Face ID & Passcode.{" "}
@@ -74,7 +74,7 @@ const IndexPage = () => (
 
         <h3>Why is my screentime way higher than it should be?</h3>
         <p>
-          Timesuck tracks the time that your screen is literally on. This
+          Phoneless tracks the time that your screen is literally on. This
           includes when you receive push notifications. Try placing your phone
           screen-down at night, and consider going through your settings page
           and turning off notifications for apps you don't need them for.
