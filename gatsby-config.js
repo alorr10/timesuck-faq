@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Timesuck FAQ`,
-    description: `If you have questions about Timesuck, you've come to the right place`,
+    title: `Phoneless FAQ`,
+    description: `If you have questions about Phoneless, you've come to the right place`,
     author: `@aleclorraine`,
   },
   plugins: [
